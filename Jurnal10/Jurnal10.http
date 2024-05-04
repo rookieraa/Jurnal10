@@ -1,0 +1,9 @@
+@Jurnal10_HostAddress = http://localhost:5099
+
+GET {{Jurnal10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Jurnal10_HostAddress}}/Mahasiswa/
+Accept: application/json
